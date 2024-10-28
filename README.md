@@ -15,6 +15,46 @@
  <li>Proficient in Embedded C, Python. </li>
 <ul>
 
+  ## 🎓 Education
+  ### National Cheng Kung University
+  - **Degree:** Master's degree, Computer Science
+  - **Years:** 2019 - 2021
+  - **Grade:** Graduated
+  - **Activities and Societies:** Contributed a tiny feature in NCKU OIA website.
+  - **Lab:** Digital IC Design Lab
+  - **Thesis:** A Low-cost Multi-Magnification interpolation based on Machine Learning
+  - **Skills:** C (Programming Language), Image Scaling, Parallel Computing
+
+  ### National Chiao Tung University
+  - **Degree:** Bachelor's degree, Computer Science & Engineering
+  - **Years:** 2015 - 2019
+  - **Grade:** Graduated
+  - **Activities and Societies:** Project - Security camera with Face recognition in Raspberry Pi
+  - **Project Details:** Used deep learning CNN model to detect human faces, MobileNet SSD model to detect objects, ZMQ image sending protocol used for sending video stream from Raspberry Pi to the host.
+
+  ## 🌱 Experience
+  ### Energy Firmware Engineer
+  **Gogoro Network · Full-time**  
+  **Sep 2021 - Present · 3 yrs 2 mos**  
+  **Guishan District, Taoyuan City, Taiwan · On-site**
+
+  1. Experience in CAN, NFC, SPI, UART communication protocols on STM32 and TI microcontroller.
+  2. Hands on experience in FreeRTOS Operating System in ARM based MCU.
+  3. Unit, integration, and feature testing, ensuring software quality.
+  4. Data analysis & ML.
+  5. Battery Management System (BMS) algorithms and communication design.
+  6. Experience in File System.
+
+
+  ## 🛠️ Skills
+  - **Programming Languages:** C, Python
+  - **Tools:** Git, JIRA
+  - **Embedded Systems:** ARM Cortex-M Series, STM32, TI, FreeRTOS
+  - **Protocols:** I2C, SPI, UART, CAN, NFC
+  - **AI:** Machine Learning, Edge AI, Image Processing, OpenCV
+  - **Others:** CCStudio, STM32CubeIDE, VS Code, Git, Linux, MacOS
+
+
   ## 📫 How to reach me:
   - Email: surajpramanik585@gmail.com
 
@@ -28,7 +68,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpramanik&layout=compact&theme=radical" alt="Suraj's Top Languages" />
   </p>
 
-  
+
 
 
 
