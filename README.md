@@ -6,7 +6,7 @@
 </h2>
 
 
-<h3> About Me </h3>
+<h2> About Me </h2>
 <ul>
   <li> Driven by a deep curiosity in computer systems, I found my passion in the world of embedded software development. Passionate about developing cutting-edge embedded software solutions for Battery Management Systems 🔋, with a keen interest in leveraging machine learning and Edge AI.
   
@@ -15,15 +15,17 @@
  <li>Proficient in Embedded C, Python. </li>
 <ul>
 
-  ## 🎓 Education
-  ### National Cheng Kung University
-  - **Degree:** Master's degree, Computer Science
+<h2> 🎓 Education </h3>
+  <h3> National Cheng Kung University </h3>
+    <ul>
+  <li> Degree: Master's degree, Computer Science </li>
   - **Years:** 2019 - 2021
   - **Grade:** Graduated
   - **Activities and Societies:** Contributed a tiny feature in NCKU OIA website.
   - **Lab:** Digital IC Design Lab
   - **Thesis:** A Low-cost Multi-Magnification interpolation based on Machine Learning
   - **Skills:** C (Programming Language), Image Scaling, Parallel Computing
+  </ul>
 
   ### National Chiao Tung University
   - **Degree:** Bachelor's degree, Computer Science & Engineering
