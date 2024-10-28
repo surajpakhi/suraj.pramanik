@@ -6,7 +6,7 @@
 </h2>
 
 
-  ## About Me
+<h3> About Me </h3>
 <ul>
   <li> Driven by a deep curiosity in computer systems, I found my passion in the world of embedded software development. Passionate about developing cutting-edge embedded software solutions for Battery Management Systems 🔋, with a keen interest in leveraging machine learning and Edge AI.
   
