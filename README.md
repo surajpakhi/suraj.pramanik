@@ -6,18 +6,29 @@
 </h2>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Firmware+Engineer;Embedded+Software;Machine+Learning;Micro+AI;C+Lover">
-</p>
-
-
   ## About Me
 <ul>
-  <li> I’m currently working as a Firmware R&D Engineer at Gogoro. </li>
-  <li> Developing embedded software in automotive vehicals </li>
-  <li> Enthusiastic about machine learning in embedded devices (Micro AI) </li>
-  <li> Computer Science graduate from National Chaio Tung University and master's from Natinal Cheng Kung university in Taiwan </li>
+  <li> Driven by a deep curiosity in computer systems, I found my passion in the world of embedded software development. Passionate about developing cutting-edge embedded software solutions for Battery Management Systems 🔋, with a keen interest in leveraging machine learning and Edge AI.
+  
+  <li> Have worked on learning based image enhancing technology (super interpolation)for hardware devices in master’s thesis. Possess fundamental knowledge in machine learning algorithms. </li>
+
+ <li>Proficient in Embedded C, Python. </li>
 <ul>
+
+  ## 📫 How to reach me:
+  - Email: surajpramanik585@gmail.com
+
+  ## 📈 My GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=surajpramanik&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Suraj's GitHub Stats" />
+  </p>
+
+  ## 📊 My Top Languages
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpramanik&layout=compact&theme=radical" alt="Suraj's Top Languages" />
+  </p>
+
+  
 
 
 
