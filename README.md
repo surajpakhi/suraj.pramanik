@@ -54,6 +54,8 @@
   - **AI:** Machine Learning, Edge AI, Image Processing, OpenCV
   - **Others:** CCStudio, STM32CubeIDE, VS Code, Git, Linux, MacOS
 
+  ## LeetCode Profile
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/surajpramanik585/)
 
   ## 📫 How to reach me:
   - Email: surajpramanik585@gmail.com
